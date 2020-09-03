@@ -1,4 +1,4 @@
-https://github.com/radiant-rstats/docker-vsix/raw/master/CoenraadS.bracket-pair-colorizer-2-0.2.0.vsix
+https://github.com/radiant-rstats/docker-vsix/raw/master/CoenraadS.bracket-pair-colorizer-1.0.61.vsix
 https://github.com/radiant-rstats/docker-vsix/raw/master/Ikuyadeu.r-1.4.4.vsix
 https://github.com/radiant-rstats/docker-vsix/raw/master/RDebugger.r-debugger-0.1.1.vsix
 https://github.com/radiant-rstats/docker-vsix/raw/master/REditorSupport.r-lsp-0.1.10.vsix
@@ -6,5 +6,5 @@ https://github.com/radiant-rstats/docker-vsix/raw/master/VisualStudioExptTeam.vs
 https://github.com/radiant-rstats/docker-vsix/raw/master/alefragnani.project-manager-11.2.0.vsix
 https://github.com/radiant-rstats/docker-vsix/raw/master/christian-kohler.path-intellisense-2.2.1.vsix
 https://github.com/radiant-rstats/docker-vsix/raw/master/eamodio.gitlens-10.2.2.vsix
-https://github.com/radiant-rstats/docker-vsix/raw/master/ms-python.python-2020.8.105369.vsix
+https://github.com/radiant-rstats/docker-vsix/raw/master/ms-python-2.7.1.vsix
 https://github.com/radiant-rstats/docker-vsix/raw/master/ms-python.vscode-pylance-2020.8.3.vsix
