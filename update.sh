@@ -5,6 +5,7 @@ for i in ${vsix_list}; do
   echo "https://github.com/radiant-rstats/docker-vsix/raw/master/${i}" >> ../docker-vsix/vsix_list.txt
 done
 
-#git add .
-#git commit -m "update"
-#git push
+git add .
+git commit -m "revert (mostly)"
+# git commit -m "update"
+git push
