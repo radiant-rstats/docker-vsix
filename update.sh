@@ -6,6 +6,6 @@ for i in ${vsix_list}; do
 done
 
 git add .
-git commit -m "revert (mostly)"
-# git commit -m "update"
+# git commit -m "revert (mostly)"
+git commit -m "update"
 git push
