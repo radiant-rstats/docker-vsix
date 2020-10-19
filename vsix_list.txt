@@ -2,7 +2,7 @@ https://github.com/radiant-rstats/docker-vsix/raw/master/alefragnani.project-man
 https://github.com/radiant-rstats/docker-vsix/raw/master/christian-kohler.path-intellisense-2.3.0.vsix
 https://github.com/radiant-rstats/docker-vsix/raw/master/CoenraadS.bracket-pair-colorizer-2-0.2.0.vsix
 https://github.com/radiant-rstats/docker-vsix/raw/master/eamodio.gitlens-10.2.2.vsix
-https://github.com/radiant-rstats/docker-vsix/raw/master/Ikuyadeu.r-1.4.6.vsix
+https://github.com/radiant-rstats/docker-vsix/raw/master/Ikuyadeu.r-1.4.2.vsix
 https://github.com/radiant-rstats/docker-vsix/raw/master/ms-python.python-2020.5.86806.vsix
 https://github.com/radiant-rstats/docker-vsix/raw/master/RDebugger.r-debugger-0.3.1.vsix
 https://github.com/radiant-rstats/docker-vsix/raw/master/REditorSupport.r-lsp-0.1.11.vsix
