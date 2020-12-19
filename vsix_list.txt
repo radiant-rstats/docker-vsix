@@ -1,9 +1,11 @@
 https://github.com/radiant-rstats/docker-vsix/raw/master/alefragnani.project-manager-11.3.0.vsix
 https://github.com/radiant-rstats/docker-vsix/raw/master/christian-kohler.path-intellisense-2.3.0.vsix
+https://github.com/radiant-rstats/docker-vsix/raw/master/ckolkman.vscode-postgres-1.1.14.vsix
 https://github.com/radiant-rstats/docker-vsix/raw/master/CoenraadS.bracket-pair-colorizer-2-0.2.0.vsix
 https://github.com/radiant-rstats/docker-vsix/raw/master/eamodio.gitlens-10.2.2.vsix
-https://github.com/radiant-rstats/docker-vsix/raw/master/Ikuyadeu.r-1.4.2.vsix
-https://github.com/radiant-rstats/docker-vsix/raw/master/ms-python.python-2020.5.86806.vsix
-https://github.com/radiant-rstats/docker-vsix/raw/master/RDebugger.r-debugger-0.3.1.vsix
-https://github.com/radiant-rstats/docker-vsix/raw/master/REditorSupport.r-lsp-0.1.11.vsix
+https://github.com/radiant-rstats/docker-vsix/raw/master/Ikuyadeu.r-1.6.2.vsix
+https://github.com/radiant-rstats/docker-vsix/raw/master/ms-python-2020.10.vsix
+https://github.com/radiant-rstats/docker-vsix/raw/master/RDebugger.r-debugger-0.4.2.vsix
+https://github.com/radiant-rstats/docker-vsix/raw/master/REditorSupport.r-lsp-0.1.12.vsix
+https://github.com/radiant-rstats/docker-vsix/raw/master/tht13.html-preview-vscode-0.2.5.vsix
 https://github.com/radiant-rstats/docker-vsix/raw/master/VisualStudioExptTeam.vscodeintellicode-1.2.10.vsix
