@@ -4,7 +4,8 @@ https://github.com/radiant-rstats/docker-vsix/raw/master/ckolkman.vscode-postgre
 https://github.com/radiant-rstats/docker-vsix/raw/master/CoenraadS.bracket-pair-colorizer-2-0.2.0.vsix
 https://github.com/radiant-rstats/docker-vsix/raw/master/eamodio.gitlens-10.2.2.vsix
 https://github.com/radiant-rstats/docker-vsix/raw/master/Ikuyadeu.r-1.6.2.vsix
-https://github.com/radiant-rstats/docker-vsix/raw/master/ms-python-2020.10.vsix
+https://github.com/radiant-rstats/docker-vsix/raw/master/ms-python.python-2020.12.424452561.vsix
+https://github.com/radiant-rstats/docker-vsix/raw/master/ms-toolsai.jupyter-2020.12.414227025.vsix
 https://github.com/radiant-rstats/docker-vsix/raw/master/RDebugger.r-debugger-0.4.2.vsix
 https://github.com/radiant-rstats/docker-vsix/raw/master/REditorSupport.r-lsp-0.1.12.vsix
 https://github.com/radiant-rstats/docker-vsix/raw/master/tht13.html-preview-vscode-0.2.5.vsix
